@@ -1,0 +1,10 @@
+{
+    "clientId": "sample-client-id",
+    "resourceIds": "SIMPLE_RESOURCE_1",
+    "clientSecret": "sample-client-secret",
+    "scope": "sample-scope",
+    "authrorizedGrantTypes": "username,token",
+    "authorities": "SIMPLE_AUTHORITY_1",
+    "accessTokenValidity": "100",
+    "refreshTokenValidity": "100"
+}
